@@ -25,7 +25,7 @@
 
 ```bash
 # Клонировать / перейти в папку проекта
-cd D:\repositories\2_bot_gigayandex
+cd github.com/nokey-os/2_bot_gigachat-yandex/dit/main/README.md)
 
 # Установить зависимости
 pip install -r requirements.txt
@@ -46,18 +46,6 @@ AUTHORIZATION_KEY=your_gigachat_key
 YC_API_KEY=your_yandex_cloud_api_key
 YC_FOLDER_ID=your_yandex_cloud_folder_id
 ```
-
-### Доступ к Telegram (если заблокирован)
-
-```ini
-# Вариант 1 (рекомендуемый): прямой IP Telegram API
-# Рабочие IP: 149.154.167.220, 149.154.167.221, 149.154.167.222, 91.108.56.100
-TELEGRAM_API_IP=149.154.167.220
-
-# Вариант 2: SOCKS5-прокси (если прямой IP не работает)
-# TELEGRAM_PROXY=socks5://127.0.0.1:9150
-```
-
 ## Запуск
 
 ```bash
