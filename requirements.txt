@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+openai>=1.0.0
+gigachat>=0.1.39
+python-dotenv>=1.0.0
+PySocks>=1.7.1
+aiohttp-socks>=0.9.0
